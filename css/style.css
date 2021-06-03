@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+table{
+    width: 100%;
+    padding: 50px;
+    background-color: rgb(246, 229, 130);
+    font-size: 20px;
+}
+
+.tHead th {
+    height: 50px;
+    text-align: left;
+}
+
+.tBody td{
+    height: 50px;
+    text-align: left;
+}
